@@ -1,0 +1,5 @@
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\Debug\Nobet_Takip_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\Debug\Nobet_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\Debug\Nobet_Takip_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\Debug\Nobet_Takip_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\Debug\dershane_etüt_programı.giris.resources

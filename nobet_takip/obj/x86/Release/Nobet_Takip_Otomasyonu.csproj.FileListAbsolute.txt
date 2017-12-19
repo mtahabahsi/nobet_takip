@@ -1,0 +1,8 @@
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\x86\Release\Nobet_Takip_Otomasyonu.ana.resources
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\x86\Release\Nobet_Takip_Otomasyonu.Form1.resources
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\x86\Release\Nobet_Takip_Otomasyonu.Form2.resources
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\x86\Release\Nobet_Takip_Otomasyonu.Form3.resources
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\x86\Release\Nobet_Takip_Otomasyonu.giris.resources
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\x86\Release\Nobet_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\x86\Release\Nobet_Takip_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\osman_000\source\repos\Nobet_Takip_Otomasyonu\Nobet_Takip_Otomasyonu\obj\x86\Release\Nobet_Takip_Otomasyonu.csproj.CoreCompileInputs.cache
